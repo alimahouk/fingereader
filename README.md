@@ -40,22 +40,8 @@ The application can be configured through `Constants.h`:
 
 ## License
 
-This project is licensed under an MIT license.
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a new Pull Request
+This project is licensed under the terms specified in the LICENSE file.
 
 ## Author
 
-Created by Ali Mahouk
-
-## Acknowledgments
-
-- Tesseract OCR team
-- OpenCV community
-- Wordnik API
+Created by Ali Mahouk in 2013.
